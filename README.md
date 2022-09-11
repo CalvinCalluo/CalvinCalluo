@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @CalvinCalluo
-- I go to Earl of March SS. Currently in grade 11 (2021).
-- I started programming in November of 2020, and can now solve 5-7 pointers on DMOJ. 
-- My DMOJ Profile : Calluo. Rating : 1130-ish
+- I go to Earl of March SS. Currently in grade 12 (2021).
 - Languages (from most proficient to least): Python, Java, Cpp, HTML, CSS, PHP, MySQL, JS 
 - 
