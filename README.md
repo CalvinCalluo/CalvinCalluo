@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @CalvinCalluo
-- I go to Earl of March SS. Currently in grade 12 (2021).
+- I'm currently a student studying CS at the University of Western Ontario, with an interest in how CS can apply itself within finance.
 - Languages (from most proficient to least): Python, Java, Cpp, HTML, CSS, PHP, MySQL, JS 
 - 
